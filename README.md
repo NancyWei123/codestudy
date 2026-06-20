@@ -1,2 +1,2 @@
 # codestudy
-A repository for studying project.
+A repository for studying project step by step.
